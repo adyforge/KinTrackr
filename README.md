@@ -112,6 +112,7 @@ Right-click anywhere on the overlay to open the context menu, where you can:
 - 👾 Detailed monster kill counters
 - 🔔 Drop notifications
 - 🎲 RNG calculator
+- ⇄  Data Import/Export
 
 ---
 
