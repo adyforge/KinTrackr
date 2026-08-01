@@ -1,7 +1,10 @@
-# KinTrackr
+<p align="center">
+  <img src="images/title.png" alt="KinTrackr Logo" width="500">
+</p>
+<h1 align="center"></h1>
 
 <p align="center">
-  <b>Real-time farming tracker for Kintara.</b><br>
+  <strong>Real-time farming tracker for Kintara.</strong><br>
   Track kills, drops, resources, bosses, and farming statistics automatically while you play.
 </p>
 
