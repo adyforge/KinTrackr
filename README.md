@@ -8,6 +8,8 @@
   Track kills, drops, resources, bosses, and farming statistics automatically while you play.
 </p>
 
+<p align="center"><a href="https://github.com/AdyTech/KinTrackr/releases/latest"><img src="https://img.shields.io/github/v/release/Adyforge/KinTrackr?label=Latest%20Release"></a>       <a href="https://discord.gg/5k4qsEaB2e"><img src="https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?logo=discord&logoColor=white"></a>    <a href="#"><img src="https://img.shields.io/badge/Chrome%20Web%20Store-Coming%20Soon-4285F4?logo=googlechrome&logoColor=white"></a></p>
+
 ---
 
 ## Features
