@@ -55,15 +55,15 @@ Coming soon.
 
 ### Manual Installation (Developer Mode)
 
-1. Download or clone this repository.
-2. Open **Google Chrome** and navigate to `chrome://extensions/`.
+1. Download the file from [![Latest Release](https://img.shields.io/github/v/release/adyforge/KinTrackr?label=Latest%20Release)](https://github.com/AdyTech/KinTrackr/releases/latest).
+2. Open **Google Chrome** and navigate to `chrome://extensions/` (or the extension screen for your browser).
 3. Enable **Developer mode** using the toggle in the top-right corner.
 4. Click **Load unpacked**.
 5. Select the KinTrackr extension folder.
 6. Launch **Kintara** in your browser.
 7. The KinTrackr overlay will automatically appear once you enter the game.
 
-> **Note:** If you download the repository as a ZIP file, extract it before selecting the folder in Step 5.
+> **Note:** Extract it before selecting the folder in Step 5.
 
 ---
 
