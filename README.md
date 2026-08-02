@@ -86,6 +86,7 @@ The overlay includes several built-in controls:
 
 - **↻ Reset** – Resets the current session statistics.
 - **⏻ Toggle** – Enables or disables tracking.
+- **↗ Detach** – Opens KinTrackr in a separate resizable browser window.
 - **✕ Hide** – Hides the overlay without disabling the tracker.
 
 ---
