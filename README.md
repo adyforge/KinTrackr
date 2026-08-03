@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="title.png" alt="KinTrackr Logo" width="500">
+  <img src="title.png" alt="KinTrackr Logo" width="800">
 </p>
-<h1 align="center"></h1>
+<h1 align="left"></h1>
 
 <p align="center">
   <strong>Real-time farming tracker for Kintara.</strong><br>
