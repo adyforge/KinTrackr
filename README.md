@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/title.png" alt="KinTrackr Logo" width="500">
+  <img src="title.png" alt="KinTrackr Logo" width="500">
 </p>
 <h1 align="center"></h1>
 
