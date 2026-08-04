@@ -58,7 +58,7 @@ Coming soon.
 
 ### Manual Installation (Developer Mode)
 
-1. Download the file from [![Latest Release](https://img.shields.io/github/v/release/adyforge/KinTrackr?label=Latest%20Release)](https://github.com/AdyTech/KinTrackr/releases/latest).
+1. Download the file from [![Latest Release](https://img.shields.io/github/v/release/adyforge/KinTrackr?label=Latest%20Release)](https://github.com/adyforge/KinTrackr/releases/latest).
 2. Open **Google Chrome** and navigate to `chrome://extensions/` (or the extension screen for your browser).
 3. Enable **Developer mode** using the toggle in the top-right corner (or lower left, depending on your browser).
 4. Click **Load unpacked**.
