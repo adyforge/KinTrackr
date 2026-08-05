@@ -9,7 +9,7 @@
 </p>
 
 <p align="center"><a href="https://github.com/adyforge/KinTrackr/releases/latest"><img src="https://img.shields.io/github/v/release/adyforge/KinTrackr?label=Latest%20Release"></a>       <a href="https://discord.gg/5k4qsEaB2e"><img src="https://img.shields.io/badge/Discord-Join%20the%20Community-5865F2?logo=discord&logoColor=white"></a>    <a href="https://chromewebstore.google.com/detail/kintrackr/hfollmfpjehbilebfoigmhjcfimegnfc?authuser=0&hl=en">
-    <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Coming%20Soon-4285F4?logo=googlechrome&logoColor=white"></a></p>
+    <img src="https://img.shields.io/badge/Chrome%20Web%20Store-Download%20Now-4285F4?logo=googlechrome&logoColor=white"></a></p>
 
 ---
 
